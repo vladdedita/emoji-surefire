@@ -1,4 +1,4 @@
-package com.example;
+package ro.vladded.examples.emoji_surefire;
 
 import org.junit.platform.engine.TestExecutionResult;
 import org.junit.platform.launcher.TestExecutionListener;

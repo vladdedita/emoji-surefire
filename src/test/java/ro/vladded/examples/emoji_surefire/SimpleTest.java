@@ -1,4 +1,4 @@
-package com.example;
+package ro.vladded.examples.emoji_surefire;
 
 import org.junit.jupiter.api.Test;
 
